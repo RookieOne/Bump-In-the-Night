@@ -1,0 +1,45 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="180928D6-9DEA-4F2E-A951-BE196679447B/f:Game1.cs" caret="255" fromTop="8" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:IBoardPiece.cs" caret="47" fromTop="1" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:PlaceOnBoardMessage.cs" caret="378" fromTop="12" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="185" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="180928D6-9DEA-4F2E-A951-BE196679447B/f:Game1.cs" caret="2778" fromTop="7" />
+      <File id="180928D6-9DEA-4F2E-A951-BE196679447B/f:Game1.cs" caret="254" fromTop="8" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="184" fromTop="8" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:IBoardPiece.cs" caret="85" fromTop="4" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:PlaceOnBoardMessage.cs" caret="394" fromTop="14" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:PlaceOnBoardMessage.cs" caret="378" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.2\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="int" priority="3" />
+      <Item value="PlaceOnBoardMessage`0" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="IBoardPiece`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

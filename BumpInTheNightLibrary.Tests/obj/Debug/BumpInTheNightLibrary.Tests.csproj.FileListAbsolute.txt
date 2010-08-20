@@ -1,0 +1,9 @@
+C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary.Tests\bin\Debug\BumpInTheNightLibrary.Tests.dll
+C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary.Tests\bin\Debug\BumpInTheNightLibrary.Tests.pdb
+C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary.Tests\bin\Debug\BumpInTheNightLibrary.dll
+C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary.Tests\bin\Debug\nunit.framework.dll
+C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary.Tests\bin\Debug\Rhino.Mocks.dll
+C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary.Tests\bin\Debug\BumpInTheNightLibrary.pdb
+C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary.Tests\obj\Debug\BumpInTheNightLibrary.Tests.dll
+C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary.Tests\obj\Debug\BumpInTheNightLibrary.Tests.pdb

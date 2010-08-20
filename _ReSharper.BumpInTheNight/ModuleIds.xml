@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="180928D6-9DEA-4F2E-A951-BE196679447B" ModuleId="BumpInTheNight" />
+  <Module PersistentId="2447D51C-A90F-40D4-A80B-4030FD280D43" ModuleId="BumpInTheNightLibrary" />
+  <Module PersistentId="DB848659-34D9-49F6-A26A-F7DFCB49B4D7" ModuleId="BumpInTheNightLibrary.Tests" />
+</Modules>

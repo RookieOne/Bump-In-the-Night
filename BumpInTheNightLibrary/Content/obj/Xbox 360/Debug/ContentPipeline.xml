@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\XboxGames\BumpInTheNight\BumpInTheNightLibrary\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-06-30T23:03:39.7994581-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

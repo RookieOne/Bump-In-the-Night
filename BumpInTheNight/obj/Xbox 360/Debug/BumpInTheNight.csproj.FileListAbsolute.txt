@@ -1,0 +1,6 @@
+C:\XboxGames\BumpInTheNight\BumpInTheNight\bin\Xbox 360\Debug\BumpInTheNight.exe
+C:\XboxGames\BumpInTheNight\BumpInTheNight\bin\Xbox 360\Debug\BumpInTheNight.pdb
+C:\XboxGames\BumpInTheNight\BumpInTheNight\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\XboxGames\BumpInTheNight\BumpInTheNight\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\XboxGames\BumpInTheNight\BumpInTheNight\obj\Xbox 360\Debug\BumpInTheNight.exe
+C:\XboxGames\BumpInTheNight\BumpInTheNight\obj\Xbox 360\Debug\BumpInTheNight.pdb
