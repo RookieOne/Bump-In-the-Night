@@ -1,32 +1,48 @@
+using System.Collections.Generic;
+
 namespace BumpInTheNightLibrary
 {
     public class Board
     {
         public Board(int rows, int columns)
         {
-            _rows = rows;
-            _columns = columns;
+            create_squares(rows, columns);
         }
 
-        readonly int _columns;
-        readonly int _rows;
+        Dictionary<int, Dictionary<int, BoardSquare>> _squares;
 
-        public void Place(PlaceOnBoardMessage message)
+        void create_squares(int rows, int columns)
         {
-            if (CannotPlacePiece(message))
+            _squares = new Dictionary<int, Dictionary<int, BoardSquare>>();
+            for (int r = 0; r < rows; r++)
             {
-                throw new InvalidPiecePlacementException();
+                _squares.Add(r, new Dictionary<int, BoardSquare>());
+                for (int c = 0; c < columns; c++)
+                    _squares[r].Add(c, new BoardSquare(r, c));
             }
         }
 
-        bool CannotPlacePiece(PlaceOnBoardMessage message)
+        public BoardSquare FindSquare(int x, int y)
         {
-            if (message.X < 0 || message.X > _rows)
-                return true;
-            if (message.Y < 0 || message.Y > _columns)
-                return true;
-
-            return false;
+            return _squares[x][y];
         }
+
+        //public void Place(PlaceOnPieceCommand message)
+        //{
+        //    if (CannotPlacePiece(message))
+        //    {
+        //        throw new InvalidPiecePlacementException();
+        //    }
+        //}
+
+        //bool CannotPlacePiece(PlaceOnPieceCommand message)
+        //{
+        //    if (message.X < 0 || message.X > _rows)
+        //        return true;
+        //    if (message.Y < 0 || message.Y > _columns)
+        //        return true;
+
+        //    return false;
+        //}
     }
 }

@@ -62,12 +62,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\AddWallCommand.cs" />
     <Compile Include="Board.cs" />
+    <Compile Include="BoardSquare.cs" />
+    <Compile Include="Commands\BoardCommand.cs" />
+    <Compile Include="Commands\CommandException.cs" />
     <Compile Include="Extensions\StringExtensions.cs" />
+    <Compile Include="Commands\IBoardCommand.cs" />
     <Compile Include="IBoardPiece.cs" />
-    <Compile Include="InvalidPiecePlacementException.cs" />
-    <Compile Include="PlaceOnBoardMessage.cs" />
+    <Compile Include="Commands\PlaceOnPieceCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Wall.cs" />
   </ItemGroup>
   <ItemGroup>
     <NestedContentProject Include="Content\Content.contentproj">

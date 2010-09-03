@@ -11,15 +11,43 @@
       <File id="180928D6-9DEA-4F2E-A951-BE196679447B/f:Game1.cs" caret="255" fromTop="8" />
       <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:IBoardPiece.cs" caret="47" fromTop="1" />
       <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:PlaceOnBoardMessage.cs" caret="378" fromTop="12" />
-      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="185" fromTop="8" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:InvalidPiecePlacementException.cs" caret="226" fromTop="7" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/f:Should.cs" caret="621" fromTop="20" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/d:Extensions/f:StringExtensions.cs" caret="186" fromTop="5" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="594" fromTop="21" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="557" fromTop="22" />
     </RecentFiles>
     <RecentEdits>
-      <File id="180928D6-9DEA-4F2E-A951-BE196679447B/f:Game1.cs" caret="2778" fromTop="7" />
-      <File id="180928D6-9DEA-4F2E-A951-BE196679447B/f:Game1.cs" caret="254" fromTop="8" />
-      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="184" fromTop="8" />
-      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:IBoardPiece.cs" caret="85" fromTop="4" />
       <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:PlaceOnBoardMessage.cs" caret="394" fromTop="14" />
       <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:PlaceOnBoardMessage.cs" caret="378" fromTop="12" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="762" fromTop="7" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="762" fromTop="7" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="762" fromTop="7" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="762" fromTop="7" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="762" fromTop="18" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:InvalidPiecePlacementException.cs" caret="244" fromTop="9" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="762" fromTop="20" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="8" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="7" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="11" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="13" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="11" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="20" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/f:Should.cs" caret="717" fromTop="13" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/f:Should.cs" caret="717" fromTop="20" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/f:Should.cs" caret="240" fromTop="6" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/d:Extensions/f:StringExtensions.cs" caret="265" fromTop="10" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/f:Should.cs" caret="390" fromTop="14" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/f:Should.cs" caret="634" fromTop="20" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/d:Extensions/f:StringExtensions.cs" caret="181" fromTop="5" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="16" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="16" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="348" fromTop="8" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="12" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="22" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1529" fromTop="16" />
+      <File id="DB848659-34D9-49F6-A26A-F7DFCB49B4D7/d:BoardTests/f:placement.cs" caret="1220" fromTop="16" />
+      <File id="2447D51C-A90F-40D4-A80B-4030FD280D43/f:Board.cs" caret="712" fromTop="17" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -34,12 +62,69 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="1" />
-      <Item value="void" priority="0" />
-      <Item value="int" priority="3" />
-      <Item value="PlaceOnBoardMessage`0" priority="0" />
+      <Item value="public" priority="10" />
+      <Item value="void" priority="6" />
+      <Item value="int" priority="5" />
+      <Item value="PlaceOnBoardMessage`0" priority="4" />
       <Item value="object" priority="0" />
-      <Item value="IBoardPiece`0" priority="0" />
+      <Item value="IBoardPiece`0" priority="2" />
+      <Item value="Board`0" priority="1" />
+      <Item value="if" priority="5" />
+      <Item value="bool" priority="1" />
+      <Item value="message" priority="6" />
+      <Item value="return" priority="3" />
+      <Item value="true" priority="2" />
+      <Item value="throw" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="Exception" priority="0" />
+      <Item value="Exception`0" priority="4" />
+      <Item value="InvalidPiecePlacementException`0" priority="2" />
+      <Item value="base" priority="0" />
+      <Item value="_board" priority="2" />
+      <Item value="Board" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="_piece" priority="2" />
+      <Item value="static" priority="1" />
+      <Item value="Action`0" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="1" />
+      <Item value="action" priority="0" />
+      <Item value="ThrowException`1" priority="0" />
+      <Item value="threwException" priority="2" />
+      <Item value="T`0" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="this" priority="0" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="params" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="_rows" priority="1" />
+      <Item value="_columns" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BumpInTheNightLibrary.PlaceOnBoardMessage">
+      <Item value="X" priority="2" />
+      <Item value="Y" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BumpInTheNightLibrary.Board">
+      <Item value="Place`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="IsTrue`0" priority="0" />
+      <Item value="Fail`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="FormatWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="GetType`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
